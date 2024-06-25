@@ -5,7 +5,7 @@ import time
 # img = cv2.imread('shape.jpg')
 
 cap = cv2.VideoCapture(0)
-
+# to use camera add camera http
 min_area = 5000 #it's too small
 
 # Convert the image to grayscale
